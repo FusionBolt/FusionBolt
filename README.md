@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FusionBolt&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/realfusioncat?style=flat-square&logo=twitter)
-![Telegram](https://img.shields.io/badge/Telegram-realfusioncat-blue?style=flat-square&logo=telegram)
+[![Twitter Follow](https://img.shields.io/twitter/follow/realfusioncat?style=flat-square&logo=twitter)](https://twitter.com/realfusioncat)
+[![Telegram](https://img.shields.io/badge/Telegram-realfusioncat-blue?style=flat-square&logo=telegram)](https://t.me/realfusioncat)
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
