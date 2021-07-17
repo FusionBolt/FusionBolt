@@ -4,6 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/realfusioncat?style=flat-square&logo=twitter)](https://twitter.com/realfusioncat)
 [![Telegram](https://img.shields.io/badge/Telegram-realfusioncat-blue?style=flat-square&logo=telegram)](https://t.me/realfusioncat)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=FusionBolt)
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
