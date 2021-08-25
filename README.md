@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FusionBolt&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/realfusioncat?style=flat-square&logo=twitter)](https://twitter.com/realakemihomura)
+[![Twitter Follow](https://img.shields.io/twitter/follow/realakemihomura?style=flat-square&logo=twitter)](https://twitter.com/realakemihomura)
 [![Telegram](https://img.shields.io/badge/Telegram-realfusioncat-blue?style=flat-square&logo=telegram)](https://t.me/realfusioncat)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=FusionBolt)
 
