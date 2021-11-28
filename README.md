@@ -21,3 +21,4 @@
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white)
 
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat-square&logo=affinity-photo&logoColor=white)
+![Fujifilm](https://img.shields.io/badge/fujifilm-%23ED1A3A.svg?&style=flat-square&logo=fujifilm&logoColor=white)
